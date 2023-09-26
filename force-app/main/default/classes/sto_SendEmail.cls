@@ -1,6 +1,6 @@
 /*---------------------------------------------------------------------------------------------------------------
 --- Company: LabsXD
---- Author: Victor Pacheco
+--- Author: Nerio Villalobos
 --- Description: Clase que permite actualizar los atributos del producto tecnico
 --- CreateDate: 13/02/2023
 --- Update for: 
